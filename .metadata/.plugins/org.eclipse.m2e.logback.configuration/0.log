@@ -1,0 +1,26 @@
+2019-10-14 10:59:58,038 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-14 11:04:17,866 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-14 11:06:02,577 [Worker-1: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/jhernandezacosta/Documents/eclipse-workspace/Automating_oAth/oAuth/pom.xml
+2019-10-14 11:06:03,232 [Worker-1: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: demo:oAuth:0.0.1-SNAPSHOT @ /Users/jhernandezacosta/Documents/eclipse-workspace/Automating_oAth/oAuth/pom.xml.
+2019-10-14 11:06:03,639 [Worker-1: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /oAuth/src/main/java
+2019-10-14 11:06:03,642 [Worker-1: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /oAuth/src/test/java
+2019-10-14 11:06:04,375 [Worker-1: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2019-10-14 11:06:05,059 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 11:06:05,059 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jhernandezacosta/Documents/eclipse-workspace/Automating_oAth/oAuth/src/main/resources
+2019-10-14 11:06:05,060 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 11:06:05,061 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jhernandezacosta/Documents/eclipse-workspace/Automating_oAth/oAuth/src/test/resources
+2019-10-14 11:18:22,043 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-14 11:18:24,577 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 11:18:24,577 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jhernandezacosta/Documents/eclipse-workspace/Automating_oAth/oAuth/src/main/resources
+2019-10-14 11:18:24,578 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 11:18:24,578 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jhernandezacosta/Documents/eclipse-workspace/Automating_oAth/oAuth/src/test/resources
+2019-10-14 11:26:19,435 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-14 11:26:22,055 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 11:26:22,055 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jhernandezacosta/Documents/eclipse-workspace/Automating_oAth/oAuth/src/main/resources
+2019-10-14 11:26:22,056 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-14 11:26:22,057 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jhernandezacosta/Documents/eclipse-workspace/Automating_oAth/oAuth/src/test/resources
+2019-10-15 11:35:30,863 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-10-15 11:35:34,865 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-15 11:35:34,866 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jhernandezacosta/Documents/eclipse-workspace/Automating_oAth/oAuth/src/main/resources
+2019-10-15 11:35:34,869 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-15 11:35:34,869 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jhernandezacosta/Documents/eclipse-workspace/Automating_oAth/oAuth/src/test/resources

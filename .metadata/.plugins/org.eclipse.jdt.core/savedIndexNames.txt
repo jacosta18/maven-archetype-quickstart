@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/jhernandezacosta/maven-archetype-quickstart/.metadata/.plugins/org.eclipse.jdt.core
+3128207647.index
+636630695.index
+2849502910.index
